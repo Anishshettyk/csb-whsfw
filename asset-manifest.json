@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anishshettyk.github.io/csb-whsfw/static/css/main.18982078.chunk.css",
+    "main.js": "https://anishshettyk.github.io/csb-whsfw/static/js/main.26920c26.chunk.js",
+    "main.js.map": "https://anishshettyk.github.io/csb-whsfw/static/js/main.26920c26.chunk.js.map",
+    "runtime-main.js": "https://anishshettyk.github.io/csb-whsfw/static/js/runtime-main.e3f772f1.js",
+    "runtime-main.js.map": "https://anishshettyk.github.io/csb-whsfw/static/js/runtime-main.e3f772f1.js.map",
+    "static/js/2.7e763a57.chunk.js": "https://anishshettyk.github.io/csb-whsfw/static/js/2.7e763a57.chunk.js",
+    "static/js/2.7e763a57.chunk.js.map": "https://anishshettyk.github.io/csb-whsfw/static/js/2.7e763a57.chunk.js.map",
+    "index.html": "https://anishshettyk.github.io/csb-whsfw/index.html",
+    "static/css/main.18982078.chunk.css.map": "https://anishshettyk.github.io/csb-whsfw/static/css/main.18982078.chunk.css.map",
+    "static/js/2.7e763a57.chunk.js.LICENSE.txt": "https://anishshettyk.github.io/csb-whsfw/static/js/2.7e763a57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3f772f1.js",
+    "static/js/2.7e763a57.chunk.js",
+    "static/css/main.18982078.chunk.css",
+    "static/js/main.26920c26.chunk.js"
+  ]
+}
